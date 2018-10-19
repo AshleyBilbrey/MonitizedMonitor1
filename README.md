@@ -2,4 +2,16 @@
 
 This is a system to have a user pay money to be able to type a message on a screen. This version is for a Arduino UNO.
 
+What you will need for this project is:
+
+- Arduino UNO
+- Small Breadbord
+- 16x2 LCD Monitor
+- 4x4 Keypad
+- 220Ω Resistor
+- Wires
+- Cardboard
+- Tape
+- Indipendent Power Supply (Optional)
+
 ![Circuit Diagram](https://user-images.githubusercontent.com/44065883/46993197-3a4f1580-d0cb-11e8-9343-4b9aa5626b24.png)
