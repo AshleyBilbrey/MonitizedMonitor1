@@ -22,3 +22,6 @@ Because the monitor and the keypad takes up all 12 digital ports on the Arduino,
 
 ![Photo of Prototype](https://user-images.githubusercontent.com/44065883/47469958-d7433a00-d7c0-11e8-8bd7-62811e10a915.png)
 
+## Click to watch video:
+
+[![MonitizedMonitor1 Video Demo](https://img.youtube.com/vi/IZxeCt4Cbfs/0.jpg)](https://www.youtube.com/watch?v=IZxeCt4Cbfs)
